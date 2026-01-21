@@ -289,4 +289,4 @@ const GameCanvas: React.FC<GameCanvasProps> = ({ gameState, setGameState, onStat
     ctx.fillStyle = '#ffedd5'; // Skin
     ctx.beginPath();
     ctx.roundRect(w/2 - 22, -15, 44, 45, 12);
-    
+    }
